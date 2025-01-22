@@ -19,17 +19,17 @@ Websites:
 export const projectsData = [
   {
     id: 1,
-    name: "EcoTracker",
-    description: "Track your carbon footprint",
-    date: "2022-08-15",
-    demoLink: "https://ecotracker.example.com",
+    name: "Chatty",
+    description: "your ultimate destination for engaging conversations and meaningful connections!",
+    date: "2025-01-20",
+    demoLink: "https://talk-trove.onrender.com",
   },
   {
     id: 2,
-    name: "ArtGallery Online",
-    description: "Digital art showcase platform",
+    name: "QuickPick",
+    description: "Now pick anything you want from our store with a single click",
     date: "2022-06-20",
-    demoLink: "https://artgalleryonline.example.com",
+    demoLink: "https://quickpick-g9xd.onrender.com",
   },
   {
     id: 3,
@@ -47,17 +47,17 @@ export const projectsData = [
   },
   {
     id: 5,
-    name: "RecipeFinder",
-    description: "Discover new recipes",
+    name: "V-chat",
+    description: "Chat with your buddies without any problem",
     date: "2022-07-12",
-    demoLink: "https://recipefinder.example.com",
+    demoLink: "https://v-chat-izp2.onrender.com",
   },
   {
     id: 6,
-    name: "JourneyLogger",
-    description: "Log your travels",
+    name: "Shoplift",
+    description: "Discover a world of quality products at unbeatable prices.",
     date: "2022-10-01",
-    demoLink: "https://journeylogger.example.com",
+    demoLink: "https://shoplift-8xtz.onrender.com",
   },
   {
     id: 7,
@@ -90,32 +90,32 @@ export const projectsData = [
 ];
 
 export const BtnList = [
-  { label: "Home", link: "/", icon: "home", newTab: false },
+  // { label: "Home", link: "/", icon: "home", newTab: false },
   { label: "About", link: "/about", icon: "about", newTab: false },
   { label: "Projects", link: "/projects", icon: "projects", newTab: false },
   { label: "Contact", link: "/contact", icon: "contact", newTab: false },
   {
     label: "Github",
-    link: "https://www.github.com/codebucks27",
+    link: "https://github.com/Aditya08pandey",
     icon: "github",
     newTab: true,
   },
   {
     label: "LinkedIn",
-    link: "https://www.linkedin.com/in/codebucks",
+    link: "https://www.linkedin.com/in/aditya08pandey",
     icon: "linkedin",
     newTab: true,
   },
   {
-    label: "X",
-    link: "https://www.x.com/code_bucks",
-    icon: "twitter",
+    label: "Resume",
+    link: "https://drive.google.com/file/d/1NG3itYcRzAPWigpKvd4Yju5L7XUDkcNl/view?usp=drive_link",
+    icon: "resume",
     newTab: true,
   },
   {
-    label: "Resume",
-    link: "/resume.pdf",
-    icon: "resume",
+    label: "Instagram",
+    link: "https://www.instagram.com/adityapandey6944?igsh=MXU2ZzVpbWh2MXEyZQ==",
+    icon: "instagram",
     newTab: true,
   },
 ];
