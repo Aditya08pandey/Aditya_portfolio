@@ -31,7 +31,7 @@ const AboutDetails = () => {
           className={" col-span-full xs:col-span-6 lg:col-span-4 text-accent"}
         >
           <p className="font-semibold w-full text-left text-2xl sm:text-5xl">
-            25+ <sub className="font-semibold text-base">clients</sub>
+            4+ <sub className="font-semibold text-base">Full stack projects</sub>
           </p>
         </ItemLayout>
 
@@ -39,8 +39,8 @@ const AboutDetails = () => {
           className={"col-span-full xs:col-span-6 lg:col-span-4 text-accent"}
         >
           <p className="font-semibold w-full text-left text-2xl sm:text-5xl">
-            4+{" "}
-            <sub className="font-semibold text-base">years of experience</sub>
+            2+{" "}
+            <sub className="font-semibold text-base">years of learning development</sub>
           </p>
         </ItemLayout>
 
@@ -75,6 +75,20 @@ const AboutDetails = () => {
             alt="Aditya Pandey"
             loading="lazy"
           />
+        </ItemLayout>
+        <ItemLayout className={"col-span-full md:col-span-6 !p-0"}>
+          <Link
+            href="https://github.com/Aditya08pandey/QuickPick"
+            target="_blank"
+            className="w-full"
+          >
+            <img
+              className="w-full h-auto"
+              src={`https://github-readme-stats.vercel.app/api/pin/?username=Aditya08pandey&repo=QuickPick&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false&description_lines_count=2`}
+              alt="Aditya Pandey"
+              loading="lazy"
+            />
+          </Link>
         </ItemLayout>
 
         <ItemLayout className={"col-span-full md:col-span-6 !p-0"}>
