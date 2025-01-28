@@ -31,7 +31,7 @@ const AboutDetails = () => {
           className={" col-span-full xs:col-span-6 lg:col-span-4 text-accent"}
         >
           <p className="font-semibold w-full text-left text-2xl sm:text-5xl">
-            4+ <sub className="font-semibold text-base">Full stack projects</sub>
+            5+ <sub className="font-semibold text-base">Full stack projects</sub>
           </p>
         </ItemLayout>
 
@@ -85,6 +85,20 @@ const AboutDetails = () => {
             <img
               className="w-full h-auto"
               src={`https://github-readme-stats.vercel.app/api/pin/?username=Aditya08pandey&repo=QuickPick&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false&description_lines_count=2`}
+              alt="Aditya Pandey"
+              loading="lazy"
+            />
+          </Link>
+        </ItemLayout>
+        <ItemLayout className={"col-span-full md:col-span-6 !p-0"}>
+          <Link
+            href="https://github.com/Aditya08pandey/Swipe"
+            target="_blank"
+            className="w-full"
+          >
+            <img
+              className="w-full h-auto"
+              src={`https://github-readme-stats.vercel.app/api/pin/?username=Aditya08pandey&repo=Swipe&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false&description_lines_count=2`}
               alt="Aditya Pandey"
               loading="lazy"
             />

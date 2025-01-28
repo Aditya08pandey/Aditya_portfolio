@@ -19,10 +19,10 @@ Websites:
 export const projectsData = [
   {
     id: 1,
-    name: "Chatty",
-    description: "your ultimate destination for engaging conversations and meaningful connections!",
+    name: "Swipe",
+    description: "Looking for your perfect prince charming, don't worry we got you covered.",
     date: "2025-01-20",
-    demoLink: "https://talk-trove.onrender.com",
+    demoLink: "https://swipe-fbem.onrender.com",
   },
   {
     id: 2,
@@ -45,6 +45,13 @@ export const projectsData = [
     description: "Discover a world of quality products at unbeatable prices.",
     date: "2022-10-01",
     demoLink: "https://shoplift-8xtz.onrender.com",
+  },
+  {
+    id: 5,
+    name: "Chatty",
+    description: "your ultimate destination for engaging conversations and meaningful connections!",
+    date: "2025-01-20",
+    demoLink: "https://talk-trove.onrender.com",
   },
   
 ];
