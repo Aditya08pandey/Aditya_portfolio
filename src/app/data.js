@@ -17,15 +17,23 @@ Websites:
 */
 
 export const projectsData = [
+
   {
     id: 1,
+    name: "CodeWiz",
+    description: "Do you also love coding but don't want to install different packages for different languages? Use our code editor for best experience. ",
+    date: "2025-01-20",
+    demoLink: "https://code-wiz-aditya-pandeys-projects-54ed7f43.vercel.app/",
+  },
+  {
+    id: 2,
     name: "Swipe",
     description: "Looking for your perfect prince charming, don't worry we got you covered.",
     date: "2025-01-20",
     demoLink: "https://swipe-fbem.onrender.com",
   },
   {
-    id: 2,
+    id: 3,
     name: "QuickPick",
     description: "Now pick anything you want from our store with a single click",
     date: "2022-06-20",
@@ -33,21 +41,21 @@ export const projectsData = [
   },
   
   {
-    id: 3,
+    id: 4,
     name: "V-chat",
     description: "Chat with your buddies without any problem",
     date: "2022-07-12",
     demoLink: "https://v-chat-izp2.onrender.com",
   },
   {
-    id: 4,
+    id: 5,
     name: "Shoplift",
     description: "Discover a world of quality products at unbeatable prices.",
     date: "2022-10-01",
     demoLink: "https://shoplift-8xtz.onrender.com",
   },
   {
-    id: 5,
+    id: 6,
     name: "Chatty",
     description: "your ultimate destination for engaging conversations and meaningful connections!",
     date: "2025-01-20",

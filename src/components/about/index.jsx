@@ -78,6 +78,20 @@ const AboutDetails = () => {
         </ItemLayout>
         <ItemLayout className={"col-span-full md:col-span-6 !p-0"}>
           <Link
+            href="https://github.com/Aditya08pandey/code_wiz"
+            target="_blank"
+            className="w-full"
+          >
+            <img
+              className="w-full h-auto"
+              src={`https://github-readme-stats.vercel.app/api/pin/?username=Aditya08pandey&repo=code_wiz&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false&description_lines_count=2`}
+              alt="Aditya Pandey"
+              loading="lazy"
+            />
+          </Link>
+        </ItemLayout>
+        <ItemLayout className={"col-span-full md:col-span-6 !p-0"}>
+          <Link
             href="https://github.com/Aditya08pandey/QuickPick"
             target="_blank"
             className="w-full"
@@ -90,6 +104,7 @@ const AboutDetails = () => {
             />
           </Link>
         </ItemLayout>
+        
         <ItemLayout className={"col-span-full md:col-span-6 !p-0"}>
           <Link
             href="https://github.com/Aditya08pandey/Swipe"
