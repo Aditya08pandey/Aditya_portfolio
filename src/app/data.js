@@ -34,6 +34,13 @@ export const projectsData = [
   },
   {
     id: 3,
+    name: "LetsMeet",
+    description: "Perfect platform for taking interviews and tracking record of it.",
+    date: "2025-01-20",
+    demoLink: "https://lets-meet-a8cz.vercel.app/",
+  },
+  {
+    id: 4,
     name: "QuickPick",
     description: "Now pick anything you want from our store with a single click",
     date: "2022-06-20",
@@ -41,21 +48,21 @@ export const projectsData = [
   },
   
   {
-    id: 4,
+    id: 5,
     name: "V-chat",
     description: "Chat with your buddies without any problem",
     date: "2022-07-12",
     demoLink: "https://v-chat-izp2.onrender.com",
   },
   {
-    id: 5,
+    id: 6,
     name: "Shoplift",
     description: "Discover a world of quality products at unbeatable prices.",
     date: "2022-10-01",
     demoLink: "https://shoplift-8xtz.onrender.com",
   },
   {
-    id: 6,
+    id: 7,
     name: "Chatty",
     description: "your ultimate destination for engaging conversations and meaningful connections!",
     date: "2025-01-20",
@@ -83,7 +90,7 @@ export const BtnList = [
   },
   {
     label: "Resume",
-    link: "https://drive.google.com/file/d/1bQnfjKgAnEopj2x8w-ztBzpDTbh9Njgu/view?usp=sharing",
+    link: "https://drive.google.com/file/d/17bwgyIfmrctVlDC3QU0pda0gKaxrqrwJ/view?usp=sharing",
     icon: "resume",
     newTab: true,
   },
